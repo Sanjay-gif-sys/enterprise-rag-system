@@ -6,3 +6,5 @@ pinecone-client
 pinecone
 tqdm
 langchain-pinecone
+fastapi
+uvicorn
