@@ -6,6 +6,5 @@ pinecone-client
 pinecone
 tqdm
 langchain-pinecone
-transformers
-torch
-accelerate
+fastapi
+uvicorn
